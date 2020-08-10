@@ -1,10 +1,4 @@
-var player1Name = prompt("What is Player 1 name?");
 
-var player2Name = prompt("What is Player 2 name?");
-
-var randomNumber1 = Math.floor(Math.random() * 6) + 1;
-
-var randomDiceImage = "dice" + randomNumber1 + ".png";
 
 var player1Name = prompt("What is Player 1 name?");
 
